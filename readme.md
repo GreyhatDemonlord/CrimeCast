@@ -1,7 +1,7 @@
 # CrimeCast
 
 
-## The date
+## The features
 To build a predictive model of crime rate based on various factors for a specific country using OECD data, I have gathered data on the following factors:
 
 - Economic factors: Gross domestic product (GDP), inflation rate, unemployment rate, and poverty rate.
